@@ -1,3 +1,6 @@
 header {
-  display: row;
+  display: inline;
+}
+ss {
+  display: inline;
 }
