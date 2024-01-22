@@ -20,6 +20,15 @@
 }
 
 /*header*/
+
+.header-menu-link:hover {
+  color: #404bbf;
+}
+
+.header-menu-link:focus {
+  color: #404bbf;
+}
+
 .logo {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
@@ -39,7 +48,7 @@
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -72,6 +81,14 @@
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+}
+
+.hero-btn:hover {
+  background-color: #404bbf;
+}
+
+.hero-btn:focus {
+  background-color: #404bbf;
 }
 
 /* features */
